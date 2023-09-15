@@ -1,4 +1,4 @@
-Loan Status Prediction using Logistic Regression
+#Loan Status Prediction using Logistic Regression
 Overview
 This repository contains code and resources for predicting loan approval status using logistic regression. Logistic regression is a common machine learning technique used for binary classification tasks like loan approval prediction. This project aims to help lenders assess the likelihood of approving a loan application based on various features.
 
