@@ -39,10 +39,15 @@ You can also use the trained model for predictions by calling the appropriate fu
 The Jupyter Notebook Loan_Status_Prediction.ipynb walks you through the process of:
 
 -Data preprocessing
+
 -Exploratory data analysis (EDA)
+
 -Feature selection
+
 -Model training and evaluation
+
 -Hyperparameter tuning (if necessary)
+
 ## Results
 The project's success and performance metrics are detailed in the notebook. Make sure to review these metrics to assess the model's accuracy and effectiveness.
 
@@ -51,9 +56,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 -Scikit-learn for providing the machine learning tools.
+
 -Pandas for data manipulation and analysis.
+
 -Matplotlib and Seaborn for data visualization.
+
 -Your data source (if applicable).
+
 ## Contact
 If you have any questions or suggestions, please feel free to contact the project owner:
 
