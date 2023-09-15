@@ -11,6 +11,7 @@ loan_data.csv: This CSV file contains historical loan application data, includin
 Before you begin, ensure you have met the following requirements:
 
 -Python 3.x installed
+
 -Required libraries and packages (See requirements.txt)
 ## Installation
 To install the required libraries, run the following command:
@@ -67,6 +68,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you have any questions or suggestions, please feel free to contact the project owner:
 
 Name: Luvai Bhori
+
 Email: luvaibhori87@gmail.com
 ## Contributing
 Contributions are welcome! Please follow the CONTRIBUTING.md guidelines.
